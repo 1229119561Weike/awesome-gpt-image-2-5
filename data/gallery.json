@@ -1,5 +1,104 @@
 [
   {
+    "id": "chinese-screenprint-fashion",
+    "title": "复古丝网印刷人物海报",
+    "category": "illustration",
+    "excerpt": "复古丝网印刷时装插画",
+    "brief": "以角色为灵感，创作一张复古印刷风人物海报。将人物与衣服概括成几何剪影，用三至四种专色组织画面。大圆形、矩形和裁切色块构成不对称背景，留出大面积纸白，加入粗网点、轻微套印错位和纸张纹理。",
+    "note": "中文原帖；四张角色风格变体。完整 Prompt 见原帖。",
+    "source": "https://x.com/VoxcatAI/status/2097410766118977836",
+    "author": "@VoxcatAI",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRt_9JRbIAA8Xpj.jpg?name=orig",
+        "alt": "复古丝网印刷人物海报 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRt_9FAbsAAkW26.jpg?name=orig",
+        "alt": "复古丝网印刷人物海报 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRt_9JSbsAAXQ5G.jpg?name=orig",
+        "alt": "复古丝网印刷人物海报 · 效果图 3"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRt_9FAasAArr4R.jpg?name=orig",
+        "alt": "复古丝网印刷人物海报 · 效果图 4"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/VoxcatAI/status/2097410766118977836",
+    "verifiedAt": "2026-09-09",
+    "language": "zh"
+  },
+  {
+    "id": "chinese-fantasy-editorial",
+    "title": "低机位奇幻角色人像",
+    "category": "photography",
+    "excerpt": "明确成年角色，时尚杂志级低机位",
+    "brief": "将一位明确成年的奇幻角色转化为时装摄影造型，保留其标志性发型、服装与配件。使用低机位近距离构图，人物半坐或侧坐，脸部放在画面上方。暖色主光配合角色代表色轮廓光，暗色环境、浅景深、自然肤质，竖版杂志摄影效果。",
+    "note": "中文原帖；保留四张人像效果图，角色须明确成年。",
+    "source": "https://x.com/VoxcatAI/status/2097416442220290078",
+    "author": "@VoxcatAI",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRuFIHMakAAxs5s.jpg?name=orig",
+        "alt": "低机位奇幻角色人像 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuFIHJbsAAnqA5.jpg?name=orig",
+        "alt": "低机位奇幻角色人像 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuFIKwagAIcmj-.jpg?name=orig",
+        "alt": "低机位奇幻角色人像 · 效果图 3"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuFIKybkAAiBci.jpg?name=orig",
+        "alt": "低机位奇幻角色人像 · 效果图 4"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/VoxcatAI/status/2097416442220290078",
+    "verifiedAt": "2026-09-09",
+    "language": "zh"
+  },
+  {
+    "id": "chinese-colossal-fantasy",
+    "title": "史诗巨物 · 暗黑奇观",
+    "category": "illustration",
+    "excerpt": "超尺度奇观 × 黑暗史诗幻想",
+    "brief": "制作一张竖版电影级巨物场景：一个巨型生物或机械生命从云雾与碎屑中显露，只展示部分头部、眼睛或轮廓，不出现人物。巨物越出画框，中心冷白高光向深灰黑环境过渡，加入体积雾、飞散颗粒和少量高饱和色点，强调重量与空间尺度。",
+    "note": "中文原帖；四张巨物场景。使用真实材质与局部构图呈现尺度感。",
+    "source": "https://x.com/VoxcatAI/status/2097421155292660066",
+    "author": "@VoxcatAI",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRuJZlZagAAVCNc.jpg?name=orig",
+        "alt": "史诗巨物 · 暗黑奇观 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuJZlZbcAALScA.jpg?name=orig",
+        "alt": "史诗巨物 · 暗黑奇观 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuJZpGbsAAL_p9.jpg?name=orig",
+        "alt": "史诗巨物 · 暗黑奇观 · 效果图 3"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRuJZpIboAEn6Lf.jpg?name=orig",
+        "alt": "史诗巨物 · 暗黑奇观 · 效果图 4"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/VoxcatAI/status/2097421155292660066",
+    "verifiedAt": "2026-09-09",
+    "language": "zh"
+  },
+  {
     "id": "showa-travel-posters",
     "title": "昭和风旅行海报",
     "category": "typography",
