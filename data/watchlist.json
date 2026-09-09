@@ -31,6 +31,54 @@
       "query": "site:x.com \"GPT Image 2.5\" prompt",
       "url": "https://www.google.com/search?q=site%3Ax.com%20%22GPT%20Image%202.5%22%20prompt",
       "priority": "P1"
+    },
+    {
+      "id": "x-language-ja",
+      "platform": "x",
+      "label": "X · 日语",
+      "query": "\"2.5\" (GPT OR ChatGPT) プロンプト lang:ja filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20lang%3Aja%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-language-ko",
+      "platform": "x",
+      "label": "X · 韩语",
+      "query": "\"2.5\" (GPT OR ChatGPT) 프롬프트 lang:ko filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20lang%3Ako%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-language-es",
+      "platform": "x",
+      "label": "X · 西班牙语",
+      "query": "\"2.5\" (GPT OR ChatGPT) prompt lang:es filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20prompt%20lang%3Aes%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-language-pt",
+      "platform": "x",
+      "label": "X · 葡萄牙语",
+      "query": "\"2.5\" (GPT OR ChatGPT) prompt lang:pt filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20prompt%20lang%3Apt%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-language-zh",
+      "platform": "x",
+      "label": "X · 中文",
+      "query": "\"2.5\" (GPT OR ChatGPT) 提示词 lang:zh filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20%E6%8F%90%E7%A4%BA%E8%AF%8D%20lang%3Azh%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-language-en",
+      "platform": "x",
+      "label": "X · 英语",
+      "query": "\"2.5\" (GPT OR ChatGPT) prompt lang:en filter:images",
+      "url": "https://x.com/search?q=%222.5%22%20%28GPT%20OR%20ChatGPT%29%20prompt%20lang%3Aen%20filter%3Aimages&src=typed_query&f=live",
+      "priority": "P0"
     }
   ],
   "communities": [
@@ -59,6 +107,15 @@
     "platforms": [
       "x"
     ],
-    "note": "当前仅搜集 X 原帖；官方文档只用于模型核验，暂不收录其他平台案例。"
+    "note": "只搜集 X 原帖，不限制语言；官方文档只用于模型核验。",
+    "languages": [
+      "en",
+      "zh",
+      "ja",
+      "ko",
+      "es",
+      "pt",
+      "any"
+    ]
   }
 }

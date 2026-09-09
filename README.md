@@ -2,7 +2,7 @@
 
 来自 X 的图像案例：**效果图 · 提示词 · 原帖**。
 
-[昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test)
+[昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
 
 <a id="showa-travel-posters"></a>
 
@@ -140,6 +140,96 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 ```
 
 作者公开的完整短 Prompt。用于观察密集植被中的细节与噪点；作者认为结果仍存在伪影。
+
+<a id="autumn-wardrobe"></a>
+
+## 秋日穿搭 · 服装细节锁定
+
+[@MoodLock\_JP · X 原帖](https://x.com/MoodLock_JP/status/2097562808330469780) · [Prompt 原文](https://x.com/MoodLock_JP/status/2097562808330469780)
+
+<p>
+<a href="https://x.com/MoodLock_JP/status/2097562808330469780"><img src="https://pbs.twimg.com/media/HRwJ94ibcAAh7GE.jpg?name=orig" alt="秋日穿搭 · 服装细节锁定 · 效果图 1" width="48%" /></a>
+<a href="https://x.com/MoodLock_JP/status/2097562808330469780"><img src="https://pbs.twimg.com/media/HRwJ95waAAAvEXh.jpg?name=orig" alt="秋日穿搭 · 服装细节锁定 · 效果图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/MoodLock_JP/status/2097562808330469780"><img src="https://pbs.twimg.com/media/HRwJ94wboAAZC_q.jpg?name=orig" alt="秋日穿搭 · 服装细节锁定 · 效果图 3" width="48%" /></a>
+<a href="https://x.com/MoodLock_JP/status/2097562808330469780"><img src="https://pbs.twimg.com/media/HRwJ95mbkAAPnvV.jpg?name=orig" alt="秋日穿搭 · 服装细节锁定 · 效果图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+以参考人物创作秋季穿搭照片。穿石米色宽松短风衣、灰色绞花针织短裙、菱格长袜和黑色乐福鞋。逐项固定纽扣数量、领口结构、袖口、口袋、面料和袜子图案，只改变穿着姿态，不重新设计服装。
+```
+
+</details>
+
+日语帖，英文服装 Prompt；四张原帖效果图。
+
+<a id="annotated-parfait"></a>
+
+## 30 种配料的注释芭菲
+
+[@TlanoAI · X 原帖](https://x.com/TlanoAI/status/2097559120086020595) · [Prompt 原文](https://x.com/TlanoAI/status/2097559120086020595)
+
+[![30 种配料的注释芭菲 · 效果图 1](https://pbs.twimg.com/media/HRwGsNGaEAATWA-.jpg?name=orig)](https://x.com/TlanoAI/status/2097559120086020595)
+
+**作者 Prompt 节选**
+
+```text
+一般的に嫌いと言われがちな食べ物のみで構成されたデラックスパフェ
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+制作一张夸张的豪华芭菲图解，配料选择通常容易被人讨厌的食物。堆叠三十种不同配料，用清晰引线逐一标注名称。杯体居中，注释沿两侧分布，保持每种食物的形态可辨认。
+```
+
+</details>
+
+日语原帖；用配料数量和标注同时测试复杂构图。
+
+<a id="cybernetic-portrait"></a>
+
+## 黑白机械面具肖像
+
+[@meng\_dagg695 · X 原帖](https://x.com/meng_dagg695/status/2097558679956664521) · [Prompt 原文](https://x.com/meng_dagg695/status/2097558679956664521)
+
+<p>
+<a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGeNGa0AAEpHk.jpg?name=orig" alt="黑白机械面具肖像 · 效果图 1" width="48%" /></a>
+<a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGfKSasAAGKWv.jpg?name=orig" alt="黑白机械面具肖像 · 效果图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGf3CbkAExr-U.jpg?name=orig" alt="黑白机械面具肖像 · 效果图 3" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+创作一张黑白机械惊悚肖像：瘦削的人形戴开裂的白瓷面具，眼窝设计不对称，周围缠绕粗电缆、线圈与工业接头。纯黑背景，低调侧光，高反差，突出陶瓷裂纹、磨损金属和织物材质。
+```
+
+</details>
+
+英语原帖，三张机械肖像变体。
 
 ---
 

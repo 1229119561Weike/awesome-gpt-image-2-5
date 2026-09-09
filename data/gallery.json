@@ -29,7 +29,8 @@
     ],
     "promptKind": "excerpt-and-adaptation",
     "promptSource": "https://x.com/Goodmanprotocol/status/2097542746273726753",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "en"
   },
   {
     "id": "subway-cinematic-portrait",
@@ -49,7 +50,8 @@
     ],
     "promptKind": "excerpt-and-adaptation",
     "promptSource": "https://x.com/weiinberg/status/2097539717973627013",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "en"
   },
   {
     "id": "mushroom-sticker-sheet",
@@ -69,7 +71,8 @@
     ],
     "promptKind": "excerpt-and-adaptation",
     "promptSource": "https://x.com/BAXSCTO/status/2097554076494102704",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "zh"
   },
   {
     "id": "pixel-combat-sprites",
@@ -89,7 +92,8 @@
     ],
     "promptKind": "adaptation",
     "promptSource": "https://x.com/Mayz1169/status/2097539942985728162",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "en"
   },
   {
     "id": "pixel-idle-sprites",
@@ -109,7 +113,8 @@
     ],
     "promptKind": "adaptation",
     "promptSource": "https://x.com/Mayz1169/status/2097533706022056339",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "en"
   },
   {
     "id": "forest-detail-test",
@@ -129,6 +134,90 @@
     ],
     "promptKind": "original",
     "promptSource": "https://x.com/mark_k/status/2097411028510179759",
-    "verifiedAt": "2026-09-09"
+    "verifiedAt": "2026-09-09",
+    "language": "en"
+  },
+  {
+    "id": "autumn-wardrobe",
+    "title": "秋日穿搭 · 服装细节锁定",
+    "category": "photography",
+    "excerpt": "PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity.",
+    "brief": "以参考人物创作秋季穿搭照片。穿石米色宽松短风衣、灰色绞花针织短裙、菱格长袜和黑色乐福鞋。逐项固定纽扣数量、领口结构、袖口、口袋、面料和袜子图案，只改变穿着姿态，不重新设计服装。",
+    "note": "日语帖，英文服装 Prompt；四张原帖效果图。",
+    "source": "https://x.com/MoodLock_JP/status/2097562808330469780",
+    "author": "@MoodLock_JP",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRwJ94ibcAAh7GE.jpg?name=orig",
+        "alt": "秋日穿搭 · 服装细节锁定 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRwJ95waAAAvEXh.jpg?name=orig",
+        "alt": "秋日穿搭 · 服装细节锁定 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRwJ94wboAAZC_q.jpg?name=orig",
+        "alt": "秋日穿搭 · 服装细节锁定 · 效果图 3"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRwJ95mbkAAPnvV.jpg?name=orig",
+        "alt": "秋日穿搭 · 服装细节锁定 · 效果图 4"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/MoodLock_JP/status/2097562808330469780",
+    "verifiedAt": "2026-09-09",
+    "language": "ja"
+  },
+  {
+    "id": "annotated-parfait",
+    "title": "30 种配料的注释芭菲",
+    "category": "infographic",
+    "excerpt": "一般的に嫌いと言われがちな食べ物のみで構成されたデラックスパフェ",
+    "brief": "制作一张夸张的豪华芭菲图解，配料选择通常容易被人讨厌的食物。堆叠三十种不同配料，用清晰引线逐一标注名称。杯体居中，注释沿两侧分布，保持每种食物的形态可辨认。",
+    "note": "日语原帖；用配料数量和标注同时测试复杂构图。",
+    "source": "https://x.com/TlanoAI/status/2097559120086020595",
+    "author": "@TlanoAI",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRwGsNGaEAATWA-.jpg?name=orig",
+        "alt": "30 种配料的注释芭菲 · 效果图 1"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/TlanoAI/status/2097559120086020595",
+    "verifiedAt": "2026-09-09",
+    "language": "ja"
+  },
+  {
+    "id": "cybernetic-portrait",
+    "title": "黑白机械面具肖像",
+    "category": "illustration",
+    "excerpt": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask",
+    "brief": "创作一张黑白机械惊悚肖像：瘦削的人形戴开裂的白瓷面具，眼窝设计不对称，周围缠绕粗电缆、线圈与工业接头。纯黑背景，低调侧光，高反差，突出陶瓷裂纹、磨损金属和织物材质。",
+    "note": "英语原帖，三张机械肖像变体。",
+    "source": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "author": "@meng_dagg695",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk.jpg?name=orig",
+        "alt": "黑白机械面具肖像 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRwGfKSasAAGKWv.jpg?name=orig",
+        "alt": "黑白机械面具肖像 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRwGf3CbkAExr-U.jpg?name=orig",
+        "alt": "黑白机械面具肖像 · 效果图 3"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "verifiedAt": "2026-09-09",
+    "language": "en"
   }
 ]
