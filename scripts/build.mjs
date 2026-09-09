@@ -1,10 +1,12 @@
 import {mkdir, writeFile, cp, readdir, unlink} from 'node:fs/promises';
 import path from 'node:path';
 import {root, loadData, validateData, labels, statusLabels, markdown as md, link, fenced} from './lib.mjs';
+import {renderGallery} from './render-gallery.mjs';
 
 const data = await loadData();
 const errors = validateData(data);
 if (errors.length) throw new Error(errors.join('\n'));
+await renderGallery();
 await mkdir(path.join(root,'docs/cases'), {recursive:true});
 // 只移除带生成标记的失效案例页面。
 const activeFiles = new Set(data.cases.map(c => `${c.id}.md`));
