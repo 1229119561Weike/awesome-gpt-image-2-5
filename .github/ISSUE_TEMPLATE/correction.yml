@@ -1,0 +1,17 @@
+name: 来源纠错或移除
+description: 更正作者、版本、原文、许可或移除内容
+title: "[来源修正] "
+body:
+  - type: input
+    id: case
+    attributes:
+      label: 案例 ID 或链接
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: 需要修正或移除的内容与依据
+      description: 请勿提交私人联系方式或敏感证明文件。
+    validations:
+      required: true

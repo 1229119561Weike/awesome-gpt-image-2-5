@@ -1,0 +1,8 @@
+{
+  "verifiedAt": "2026-09-09",
+  "models": [
+    {"id":"gpt-image-2.5-flare","name":"GPT Image 2.5 Flare","focus":"官方定位：快速、高质量的日常图像生成。","url":"https://developers.openai.com/api/docs/models/gpt-image-2.5-flare"},
+    {"id":"gpt-image-2.5-sunburst","name":"GPT Image 2.5 Sunburst","focus":"官方定位：图像生成与编辑，强调精确编辑工作流。","url":"https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst"}
+  ],
+  "note": "两个型号均已从官方模型页核实。帖子只说 GPT Image 2.5 时记录 unspecified；不猜测 Flare 或 Sunburst。"
+}

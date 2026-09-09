@@ -1,0 +1,47 @@
+name: 提交案例
+description: 推荐一个有原始来源的 GPT Image 2.5 案例
+title: "[案例] "
+body:
+  - type: input
+    id: source
+    attributes:
+      label: 原帖永久链接
+      description: 仅接受作者的 X 原帖或回复永久链接。
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: 原作者
+    validations:
+      required: true
+  - type: dropdown
+    id: model
+    attributes:
+      label: 原帖声明的模型
+      options:
+        - GPT Image 2.5 Flare
+        - GPT Image 2.5 Sunburst
+        - GPT Image 2.5（未注明变体）
+        - 尚未确认
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Prompt、成图和模型证据
+      description: 提供相应原帖位置；没有完整 Prompt 时说明缺口，不自行补写。
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么值得收藏
+      description: 说明构图、文字、编辑方法或可复用的结构。
+    validations:
+      required: true
+  - type: textarea
+    id: rights
+    attributes:
+      label: 原文和图片转载依据
+      description: 无明确许可可留空，项目将优先采用原帖链接。

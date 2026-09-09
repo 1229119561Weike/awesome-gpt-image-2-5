@@ -56,7 +56,8 @@ docs/
   cases/                 自动生成的单条案例页
   research/              每轮来源研究和缺口记录
 tests/                   去重、证据门槛和输入边界检查
-.github/                 投稿模板、校验和手动部署流程
+.github/                 投稿与来源纠错模板
+docs/github-workflows/   可选的 CI 与 Pages 工作流模板
 ```
 
 数据只编辑 `data/*.json`；生成的 `docs/gallery.md`、`docs/templates.md`、`docs/cases/*.md`、`site/data.json` 和 `dist/` 不直接编辑。
@@ -77,7 +78,7 @@ npm run add -- 'https://x.com/author/status/123456789' --title '案例标题' --
 
 ## 发布与持续维护
 
-项目仓库：[1229119561Weike/awesome-gpt-image-2-5](https://github.com/1229119561Weike/awesome-gpt-image-2-5)。已具备本地预览、数据校验和静态部署文件。需要在线站点时，在仓库设置中启用 GitHub Pages 的 GitHub Actions 部署来源，然后手动执行 `Deploy Pages`。CI 每次提交和 PR 都会检查数据与构建。
+项目仓库：[1229119561Weike/awesome-gpt-image-2-5](https://github.com/1229119561Weike/awesome-gpt-image-2-5)。已具备本地预览、数据校验和静态部署文件。当前发布凭据没有 workflow 权限，因此暂未启用 GitHub Actions。两份工作流保存在 [docs/github-workflows](docs/github-workflows)，有相应权限时复制到 `.github/workflows/`，即可启用提交与 PR 校验；启用 GitHub Pages 的 GitHub Actions 部署来源后，可手动执行 `Deploy Pages`。本地 `npm run validate`、`npm test` 和 `npm run build` 已可使用。
 
 每天的内容搜索由当前 Codex 任务附属的 21 天自动追踪执行；静态网页本身只提供检索入口。克隆项目不会自动复制本机的定时安排。自动执行需要运行该任务的设备和应用可用，实际执行与延迟写入研究日志。
 

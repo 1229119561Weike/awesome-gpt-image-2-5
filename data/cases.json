@@ -1,0 +1,47 @@
+[
+  {
+    "id": "chetaslua-image-2-vs-2-5",
+    "title": "X 上的 Image 2 与 2.5 对照传播线索",
+    "summary": "已取得 Chetaslua 的 X 对照帖永久链接，适合回访补齐图片、提示词及模型证据；当前原帖无法直接读取，尚不足以独立评价对照质量。",
+    "category": "photography",
+    "tags": [
+      "X",
+      "模型对比",
+      "待回访",
+      "二手转引"
+    ],
+    "status": "candidate",
+    "source": {
+      "platform": "x",
+      "url": "https://x.com/chetaslua/status/2097397986825572375",
+      "author": "@chetaslua",
+      "publishedAt": null,
+      "access": "secondary",
+      "evidence": "2026-09-08 的 Reddit 转引帖明确链接该作者的 X 原帖：https://www.reddit.com/r/accelerate/comments/1waz5tn/chatgpt_image_2_vs_image_25_holy_openai_is_on/ 。X 直接打开失败。没有将 Reddit 转引帖的 +22 净票数当作 X 互动数，亦未把转帖日期当作原帖发布日期。",
+      "verifiedAt": "2026-09-09"
+    },
+    "model": {
+      "claimed": "ChatGPT Image 2 vs Image 2.5（二手标题）",
+      "variant": "unspecified",
+      "evidence": "模型对比主张来自转引标题，未读取 X 原始内容，无法确认图像模型及参数。",
+      "status": "unknown"
+    },
+    "prompt": {
+      "kind": "unavailable",
+      "text": "",
+      "language": "unknown",
+      "notes": "X 原帖无法读取；没有从转引标题猜测或还原 prompt。"
+    },
+    "media": [],
+    "metrics": {
+      "likes": null,
+      "comments": null,
+      "views": null,
+      "observedAt": null
+    },
+    "reproduction": {
+      "status": "not-tested",
+      "notes": "回访原帖后再确认案例主题、原图、提示词和实际模型；目前摄影分类仅为暂存，不能视为质量背书。"
+    }
+  }
+]

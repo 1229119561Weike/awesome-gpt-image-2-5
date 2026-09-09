@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f3ec" />
+    <meta name="description" content="一个有出处、可核验的 GPT Image 2.5 提示词档案。收集 X 的社区案例，整理原创模板与发现线索。" />
+    <title>GPT Image 2.5 — 好提示词档案</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#archive">跳到提示词档案</a>
+    <header class="masthead page-width">
+      <a class="brand" href="./" aria-label="好提示词档案首页"><span class="brand-symbol" aria-hidden="true">✳</span><span>好提示词档案<small>AWESOME GPT IMAGE 2.5</small></span></a>
+      <nav aria-label="站点导航"><a href="#archive">浏览档案 <span aria-hidden="true">↙</span></a><a href="#criteria">收录标准 <span aria-hidden="true">↗</span></a></nav>
+      <span class="edition">OPEN COLLECTION <i aria-hidden="true"></i></span>
+    </header>
+
+    <main>
+      <section class="hero page-width" aria-labelledby="hero-title">
+        <div class="hero-main"><p class="eyebrow"><span class="tiny-cross" aria-hidden="true">+</span> IMAGE MAKING, WITH RECEIPTS</p><h1 id="hero-title">好图背后，<br />有值得收藏的<span class="highlight">提示。</span></h1><p class="hero-subtitle">追踪 X 上的好想法，留住提示词、原始出处与证据。<br class="desktop-break" />为 GPT Image 2.5 建一份可以慢慢积累的创作档案。</p></div>
+        <aside class="hero-aside" aria-label="档案原则"><span class="issue-label">FIELD NOTES <span>№ 025</span></span><div class="specimen" aria-hidden="true"><span class="orbit orbit-one"></span><span class="orbit orbit-two"></span><span class="orbit orbit-three"></span><span class="specimen-center">2.5</span><span class="axis-label axis-top">IDEA</span><span class="axis-label axis-bottom">EVIDENCE</span><span class="specimen-dot"></span></div><p><span>01 /</span> 每个灵感，都有来处。<br /><span>02 /</span> 每条证据，都可追溯。</p></aside>
+      </section>
+
+      <section class="stats page-width" aria-label="档案统计" id="stats"><div><span class="stat-value" id="curated-count">—</span><span class="stat-name">社区精选<small>CURATED CASES</small></span></div><div><span class="stat-value" id="candidate-count">—</span><span class="stat-name">待核验线索<small>ON THE RADAR</small></span></div><div><span class="stat-value" id="reference-count">—</span><span class="stat-name">文档与版本参考<small>REFERENCES</small></span></div><div><span class="stat-value" id="template-count">—</span><span class="stat-name">原创待实测模板<small>ORIGINAL TEMPLATES</small></span></div></section>
+
+      <section class="archive page-width" id="archive" aria-labelledby="archive-title">
+        <div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2 id="archive-title">打开灵感档案</h2></div><p class="section-note">把「看到过」变成「找得到」。<br />保留不确定性，让好想法经得起回看。</p></div>
+        <div class="archive-toolbar"><div class="tabs" role="tablist" aria-label="档案类型"><button id="tab-cases" type="button" role="tab" aria-selected="true" aria-controls="collection-panel" data-tab="cases" tabindex="0">社区案例 <span id="cases-tab-count">—</span></button><button id="tab-templates" type="button" role="tab" aria-selected="false" aria-controls="collection-panel" data-tab="templates" tabindex="-1">原创模板 <span id="templates-tab-count">—</span></button><button id="tab-radar" type="button" role="tab" aria-selected="false" aria-controls="collection-panel" data-tab="radar" tabindex="-1">发现雷达 <span aria-hidden="true">↗</span></button></div><label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索主题、提示词、作者…" aria-label="搜索档案" /><kbd aria-hidden="true">/</kbd></label></div>
+        <div id="filters" class="filters"><label>创作方向<select id="category-filter"><option value="all">全部方向</option></select></label><label id="platform-filter-wrap">来源平台<select id="platform-filter"><option value="all">全部平台</option><option value="x">X / Twitter</option></select></label><label id="status-filter-wrap">证据状态<select id="status-filter"><option value="all">全部状态</option><option value="curated">社区精选</option><option value="candidate">待核验线索</option><option value="reference">文档与版本参考</option></select></label><button class="reset-button" type="button" id="reset-filters" hidden>重置筛选 ↺</button><span class="result-count" id="result-count" role="status" aria-live="polite"></span></div>
+        <div id="collection-panel" role="tabpanel" aria-labelledby="tab-cases" tabindex="0"><div class="state-box loading-state" role="status"><span class="loading-dot" aria-hidden="true"></span><h3>正在打开档案…</h3><p>读取案例、原创模板与发现线索。</p></div></div>
+      </section>
+
+      <section class="contribute page-width"><span class="contribute-mark" aria-hidden="true">↗</span><div><p class="eyebrow">A COLLECTION, NOT A FINISH LINE</p><h2>发现一个好案例？让它有迹可循。</h2><p>带上原帖、作者、模型证据与完整提示词，下一位创作者就能从这里继续。</p></div><a class="button button-dark" href="#criteria">查看收录标准 <span aria-hidden="true">↗</span></a></section>
+      <section class="field-guide page-width" aria-label="收录标准与使用指南">
+        <article id="criteria" aria-labelledby="criteria-title"><p class="eyebrow">01 / OUR EDITORIAL STANDARD</p><h2 id="criteria-title">什么值得收进来</h2><dl><div><dt>社区精选</dt><dd>具备原始来源、完整可用提示词、明确的 2.5 模型证据与可核验输出。独立复现另行记录，精选并不意味着已经复现。</dd></div><div><dt>待核验线索</dt><dd>缺少模型、提示词或输出证据时，保留缺口与来源读取范围，等待补证。</dd></div><div><dt>文档与版本参考</dt><dd>官方文档、旧版案例与背景资料单独归档，不计入 2.5 社区精选。</dd></div></dl><p class="guide-footnote">尊重作者署名与内容权利。图片只有在许可及许可证据齐全时才展示；未获许可的内容链接到原始来源。</p></article>
+        <article id="guide" aria-labelledby="guide-title"><p class="eyebrow">02 / A SMALL FIELD GUIDE</p><h2 id="guide-title">把灵感用起来</h2><ol><li><strong>找到方向。</strong>按主题、来源平台和证据状态筛选；按 <kbd>/</kbd> 快速搜索。</li><li><strong>回看来源。</strong>打开档案，先读模型证据、输出记录和提示词类型。热度是带日期的快照。</li><li><strong>编辑与尝试。</strong>原创模板可填写变量，也可直接修改文本；复制后到自己的图像工具运行并记录结果。</li><li><strong>留住这次发现。</strong>复制档案链接分享。模板编辑仅保存在当前页面，刷新后恢复示例值。</li></ol><p class="guide-footnote">发现雷达提供人工搜索入口，不会自动抓取社交平台。键盘方向键可切换档案页签，Esc 可关闭详情。</p></article>
+      </section>
+    </main>
+
+    <footer class="page-width"><a class="footer-brand" href="./">✳ 好提示词档案</a><p>独立社区项目 · 非 OpenAI 官方项目<br /><span id="verified-date">所有热度数据均以记录时的快照为准。</span></p><div><a href="#guide">使用指南 ↗</a><a href="#criteria">来源与收录 ↗</a></div></footer>
+    <dialog id="detail-dialog" aria-labelledby="detail-title"><div class="dialog-shell"><button id="close-dialog" class="close-button" type="button" aria-label="关闭详情">✕</button><div id="detail-content"></div></div></dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <noscript><p class="noscript">请启用 JavaScript 浏览档案，或<a href="data.json">直接阅读档案数据</a>。</p></noscript>
+  </body>
+</html>

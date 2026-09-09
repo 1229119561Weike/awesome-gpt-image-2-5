@@ -1,0 +1,17 @@
+{
+  "name": "awesome-gpt-image-2-5",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A source-first collection of GPT Image 2.5 prompts from X, with original templates and source evidence.",
+  "type": "module",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "validate": "node scripts/validate.mjs",
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "add": "node scripts/add.mjs",
+    "digest": "node scripts/digest.mjs"
+  },
+  "license": "MIT"
+}

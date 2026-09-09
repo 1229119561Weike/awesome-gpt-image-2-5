@@ -1,0 +1,64 @@
+{
+  "queries": [
+    {
+      "id": "x-latest",
+      "platform": "x",
+      "label": "X · 最新公开 Prompt",
+      "query": "(\"GPT Image 2.5\" OR \"gpt-image-2.5\" OR \"Images 2.5\") (prompt OR 提示词) -filter:retweets",
+      "url": "https://x.com/search?q=%28%22GPT%20Image%202.5%22%20OR%20%22gpt-image-2.5%22%20OR%20%22Images%202.5%22%29%20%28prompt%20OR%20%E6%8F%90%E7%A4%BA%E8%AF%8D%29%20-filter%3Aretweets&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-flare",
+      "platform": "x",
+      "label": "X · Flare 案例",
+      "query": "(\"gpt-image-2.5-flare\" OR \"Image 2.5 Flare\") (prompt OR generated)",
+      "url": "https://x.com/search?q=%28%22gpt-image-2.5-flare%22%20OR%20%22Image%202.5%20Flare%22%29%20%28prompt%20OR%20generated%29&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "x-sunburst",
+      "platform": "x",
+      "label": "X · Sunburst 编辑",
+      "query": "(\"gpt-image-2.5-sunburst\" OR \"Image 2.5 Sunburst\") (edit OR prompt OR before)",
+      "url": "https://x.com/search?q=%28%22gpt-image-2.5-sunburst%22%20OR%20%22Image%202.5%20Sunburst%22%29%20%28edit%20OR%20prompt%20OR%20before%29&src=typed_query&f=live",
+      "priority": "P0"
+    },
+    {
+      "id": "web-x",
+      "platform": "web",
+      "label": "搜索引擎 · X 原帖",
+      "query": "site:x.com \"GPT Image 2.5\" prompt",
+      "url": "https://www.google.com/search?q=site%3Ax.com%20%22GPT%20Image%202.5%22%20prompt",
+      "priority": "P1"
+    }
+  ],
+  "communities": [
+    {
+      "name": "OpenAI on X",
+      "url": "https://x.com/OpenAI",
+      "reason": "官方发布、演示与作者转发入口。"
+    },
+    {
+      "name": "OpenAI Developers on X",
+      "url": "https://x.com/OpenAIDevs",
+      "reason": "模型名称和开发者演示线索。"
+    }
+  ],
+  "routine": {
+    "cadence": "2026-09-10 至 2026-09-30，每天北京时间 10:00，共 21 次。",
+    "steps": [
+      "检索最近 24 小时，并回看 72 小时内迟到索引的帖子。",
+      "打开 X 原帖与作者补充回复，记录 Prompt、版本、参考图依赖和访问限制。",
+      "按帖子 ID 去重，保存真实可见热度及观测时间；重视 Prompt 完整性与可复用性。",
+      "证据不全进入候选；完整来源、模型和成图证据齐备后才进入精选。",
+      "更新 JSON、研究日志和 Markdown 图库，执行校验、测试与构建。"
+    ]
+  },
+  "scope": {
+    "platforms": [
+      "x"
+    ],
+    "note": "当前仅搜集 X 原帖；官方文档只用于模型核验，暂不收录其他平台案例。"
+  }
+}
