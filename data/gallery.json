@@ -1,5 +1,76 @@
 [
   {
+    "id": "sunburst-surreal-photography",
+    "title": "Sunburst · 超现实写实摄影",
+    "category": "photography",
+    "excerpt": "create the most realistic possible image of the most surreal thing you can imagine",
+    "brief": "",
+    "note": "作者在 Firefly Boards 使用 GPT Image 2.5 Sunburst；这是一条完整短 Prompt。",
+    "source": "https://x.com/icreatelife/status/2097860435366048106",
+    "author": "@icreatelife",
+    "model": "GPT Image 2.5 Sunburst（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg?name=orig",
+        "alt": "Sunburst · 超现实写实摄影 · 原帖配图 1"
+      }
+    ],
+    "promptKind": "original",
+    "promptSource": "https://x.com/icreatelife/status/2097860435366048106",
+    "verifiedAt": "2026-09-10",
+    "language": "en"
+  },
+  {
+    "id": "chinese-pet-combat-sheet",
+    "title": "角色与宠物 · 中文连续动作表",
+    "category": "storytelling",
+    "excerpt": "上传图1作为角色身份与服装的唯一参考。",
+    "brief": "上传一张角色或宠物参考图，制作正方形 4×4 连续动作表。十六帧依次表现蓄力、动作展开、力量释放、收势和回到待机。固定朝向、角色大小、脚底基线和色板，末帧衔接首帧。参考图中的外形与服装保持一致，每格完整呈现角色，不添加文字或场景。",
+    "note": "需上传角色或宠物参考图。原帖同时提供完整中文指令及拆帧、循环播放说明；配图按原帖保留。",
+    "source": "https://x.com/derek_wall90176/status/2097863751471157498",
+    "author": "@derek_wall90176",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HR0b7G5b0AAlHaN.jpg?name=orig",
+        "alt": "角色与宠物 · 中文连续动作表 · 原帖配图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HR0b7G7aIAA8boG.jpg?name=orig",
+        "alt": "角色与宠物 · 中文连续动作表 · 原帖配图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HR0b7G8bkAAOI2d.jpg?name=orig",
+        "alt": "角色与宠物 · 中文连续动作表 · 原帖配图 3"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/derek_wall90176/status/2097863751471157498",
+    "verifiedAt": "2026-09-10",
+    "language": "zh"
+  },
+  {
+    "id": "reference-style-ugc",
+    "title": "参考照片配色 · UGC 人像",
+    "category": "photography",
+    "excerpt": "using this json as reference, generate a candid ugc photo of a woman.",
+    "brief": "先从有权使用的参考照片提炼光线、色彩和颗粒特征，保存成 JSON 风格说明；再上传人物参考图，结合这份风格说明生成自然手机抓拍。保持人物身份与参考图的光色关系，只调整场景，避免棚拍感与过度磨皮。",
+    "note": "两阶段工作流：风格分析 → 参考人物生图。需要风格 JSON 和人物参考，完整步骤见原帖。",
+    "source": "https://x.com/0x_harness/status/2097864879843746285",
+    "author": "@0x_harness",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HR0c_G9aUAApYPQ.jpg?name=orig",
+        "alt": "参考照片配色 · UGC 人像 · 原帖配图 1"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/0x_harness/status/2097864879843746285",
+    "verifiedAt": "2026-09-10",
+    "language": "en"
+  },
+  {
     "id": "chinese-screenprint-fashion",
     "title": "复古丝网印刷人物海报",
     "category": "illustration",

@@ -2,13 +2,45 @@
 
 来自 X 的图像案例：**效果图 · 提示词 · 原帖**。
 
-[中文案例（4）](#chinese-cases) · [其他语言案例（8）](#international-cases)
+[中文案例（5）](#chinese-cases) · [其他语言案例（10）](#international-cases)
 
 <a id="chinese-cases"></a>
 
 ## 中文案例
 
-[复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+[角色与宠物 · 中文连续动作表](#chinese-pet-combat-sheet) · [复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+
+<a id="chinese-pet-combat-sheet"></a>
+
+### 角色与宠物 · 中文连续动作表
+
+[@derek\_wall90176 · X 原帖](https://x.com/derek_wall90176/status/2097863751471157498) · [Prompt 原文](https://x.com/derek_wall90176/status/2097863751471157498)
+
+<p>
+<a href="https://x.com/derek_wall90176/status/2097863751471157498"><img src="https://pbs.twimg.com/media/HR0b7G5b0AAlHaN.jpg?name=orig" alt="角色与宠物 · 中文连续动作表 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/derek_wall90176/status/2097863751471157498"><img src="https://pbs.twimg.com/media/HR0b7G7aIAA8boG.jpg?name=orig" alt="角色与宠物 · 中文连续动作表 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/derek_wall90176/status/2097863751471157498"><img src="https://pbs.twimg.com/media/HR0b7G8bkAAOI2d.jpg?name=orig" alt="角色与宠物 · 中文连续动作表 · 原帖配图 3" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+上传图1作为角色身份与服装的唯一参考。
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+上传一张角色或宠物参考图，制作正方形 4×4 连续动作表。十六帧依次表现蓄力、动作展开、力量释放、收势和回到待机。固定朝向、角色大小、脚底基线和色板，末帧衔接首帧。参考图中的外形与服装保持一致，每格完整呈现角色，不添加文字或场景。
+```
+
+</details>
+
+需上传角色或宠物参考图。原帖同时提供完整中文指令及拆帧、循环播放说明；配图按原帖保留。
 
 <a id="chinese-screenprint-fashion"></a>
 
@@ -138,7 +170,48 @@
 
 ## 其他语言案例
 
-[昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+[Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+
+<a id="sunburst-surreal-photography"></a>
+
+### Sunburst · 超现实写实摄影
+
+[@icreatelife · X 原帖](https://x.com/icreatelife/status/2097860435366048106) · [Prompt 原文](https://x.com/icreatelife/status/2097860435366048106)
+
+[![Sunburst · 超现实写实摄影 · 原帖配图 1](https://pbs.twimg.com/media/HR0Y7ljakAA_WM9.jpg?name=orig)](https://x.com/icreatelife/status/2097860435366048106)
+
+**作者 Prompt**
+
+```text
+create the most realistic possible image of the most surreal thing you can imagine
+```
+
+作者在 Firefly Boards 使用 GPT Image 2.5 Sunburst；这是一条完整短 Prompt。
+
+<a id="reference-style-ugc"></a>
+
+### 参考照片配色 · UGC 人像
+
+[@0x\_harness · X 原帖](https://x.com/0x_harness/status/2097864879843746285) · [Prompt 原文](https://x.com/0x_harness/status/2097864879843746285)
+
+[![参考照片配色 · UGC 人像 · 原帖配图 1](https://pbs.twimg.com/media/HR0c_G9aUAApYPQ.jpg?name=orig)](https://x.com/0x_harness/status/2097864879843746285)
+
+**作者 Prompt 节选**
+
+```text
+using this json as reference, generate a candid ugc photo of a woman.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+先从有权使用的参考照片提炼光线、色彩和颗粒特征，保存成 JSON 风格说明；再上传人物参考图，结合这份风格说明生成自然手机抓拍。保持人物身份与参考图的光色关系，只调整场景，避免棚拍感与过度磨皮。
+```
+
+</details>
+
+两阶段工作流：风格分析 → 参考人物生图。需要风格 JSON 和人物参考，完整步骤见原帖。
 
 <a id="showa-travel-posters"></a>
 
