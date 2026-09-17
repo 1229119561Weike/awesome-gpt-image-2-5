@@ -2,13 +2,37 @@
 
 来自 X 的图像案例：**效果图 · 提示词 · 原帖**。
 
-[中文案例（5）](#chinese-cases) · [其他语言案例（10）](#international-cases)
+[中文案例（6）](#chinese-cases) · [其他语言案例（12）](#international-cases)
 
 <a id="chinese-cases"></a>
 
 ## 中文案例
 
-[角色与宠物 · 中文连续动作表](#chinese-pet-combat-sheet) · [复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+[竖版 2×2 失败照片模板](#vertical-2x2-failed-photos) · [角色与宠物 · 中文连续动作表](#chinese-pet-combat-sheet) · [复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+
+<a id="vertical-2x2-failed-photos"></a>
+
+### 竖版 2×2 失败照片模板
+
+[@DeepBlueX0 · X 原帖](https://x.com/DeepBlueX0/status/2100184573376381181) · [Prompt 原文](https://x.com/DeepBlueX0/status/2100184573376381181)
+
+<p>
+<a href="https://x.com/DeepBlueX0/status/2100184573376381181"><img src="https://pbs.twimg.com/media/HSVauXvbwAAbAX7.jpg?name=orig" alt="竖版 2×2 失败照片模板 · 效果图 1" width="48%" /></a>
+<a href="https://x.com/DeepBlueX0/status/2100184573376381181"><img src="https://pbs.twimg.com/media/HSVauXxa8AAn6hn.jpg?name=orig" alt="竖版 2×2 失败照片模板 · 效果图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/DeepBlueX0/status/2100184573376381181"><img src="https://pbs.twimg.com/media/HSVauX1bEAAsgjG.jpg?name=orig" alt="竖版 2×2 失败照片模板 · 效果图 3" width="48%" /></a>
+<a href="https://x.com/DeepBlueX0/status/2100184573376381181"><img src="https://pbs.twimg.com/media/HSVauX2bUAAPaLb.jpg?name=orig" alt="竖版 2×2 失败照片模板 · 效果图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt**
+
+```text
+【任意场景】 × 【任意穿搭/主体】 × 竖版2×2错误照片
+```
+
+中文短模板：把场景与穿搭填进占位符，生成四格意外抓拍。四张均为作者原帖示例；不是本项目实测。
 
 <a id="chinese-pet-combat-sheet"></a>
 
@@ -170,7 +194,48 @@
 
 ## 其他语言案例
 
-[Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+[东京旅行 iPhone 相册截图](#tokyo-iphone-album-makima) · [Sunburst 抽象背景人像对比](#sunburst-abstract-portrait-compare) · [Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+
+<a id="tokyo-iphone-album-makima"></a>
+
+### 东京旅行 iPhone 相册截图
+
+[@AllkeyArt · X 原帖](https://x.com/AllkeyArt/status/2100421366205845603) · [Prompt 原文](https://x.com/AllkeyArt/status/2100421366205845603)
+
+[![东京旅行 iPhone 相册截图 · 效果图 1](https://pbs.twimg.com/media/HSYyEnIXgAAZPUx.jpg?name=orig)](https://x.com/AllkeyArt/status/2100421366205845603)
+
+**作者 Prompt**
+
+```text
+Makima × Tokyo trip iPhone photo album screenshots × iOS 27
+```
+
+英文原帖公开的一行 Prompt；作者标注 GPT image 2.5。
+
+<a id="sunburst-abstract-portrait-compare"></a>
+
+### Sunburst 抽象背景人像对比
+
+[@dreamydigiarts · X 原帖](https://x.com/dreamydigiarts/status/2100419487711260799) · [Prompt 原文](https://x.com/dreamydigiarts/status/2100419487711260799)
+
+[![Sunburst 抽象背景人像对比 · 效果图 1](https://pbs.twimg.com/media/HSUVsltaIAAll0w.jpg?name=orig)](https://x.com/dreamydigiarts/status/2100419487711260799)
+
+**作者 Prompt 节选**
+
+```text
+A fit adult woman with brown hair stands against an abstract background
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+生成一张成年女性的写实人像：棕色头发，站在深青色画布前，背景有红橙色泼洒。她穿白色衬衫，光线像夕阳或暖光，面部和衣服有柔和阴影，表情平静，背景保留可见笔触和飞溅，整体戏剧化、略带忧郁。
+```
+
+</details>
+
+作者明确比较 GPT Image 2.5 Sunburst 与 Nano Banana 2；本页只展示其 Sunburst 配图。
 
 <a id="sunburst-surreal-photography"></a>
 

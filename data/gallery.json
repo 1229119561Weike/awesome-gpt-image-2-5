@@ -1,5 +1,80 @@
 [
   {
+    "id": "vertical-2x2-failed-photos",
+    "title": "竖版 2×2 失败照片模板",
+    "category": "photography",
+    "excerpt": "【任意场景】 × 【任意穿搭/主体】 × 竖版2×2错误照片",
+    "brief": "",
+    "note": "中文短模板：把场景与穿搭填进占位符，生成四格意外抓拍。四张均为作者原帖示例；不是本项目实测。",
+    "source": "https://x.com/DeepBlueX0/status/2100184573376381181",
+    "author": "@DeepBlueX0",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HSVauXvbwAAbAX7.jpg?name=orig",
+        "alt": "竖版 2×2 失败照片模板 · 效果图 1"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSVauXxa8AAn6hn.jpg?name=orig",
+        "alt": "竖版 2×2 失败照片模板 · 效果图 2"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSVauX1bEAAsgjG.jpg?name=orig",
+        "alt": "竖版 2×2 失败照片模板 · 效果图 3"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HSVauX2bUAAPaLb.jpg?name=orig",
+        "alt": "竖版 2×2 失败照片模板 · 效果图 4"
+      }
+    ],
+    "promptKind": "original",
+    "promptSource": "https://x.com/DeepBlueX0/status/2100184573376381181",
+    "verifiedAt": "2026-09-17",
+    "language": "zh"
+  },
+  {
+    "id": "tokyo-iphone-album-makima",
+    "title": "东京旅行 iPhone 相册截图",
+    "category": "illustration",
+    "excerpt": "Makima × Tokyo trip iPhone photo album screenshots × iOS 27",
+    "brief": "",
+    "note": "英文原帖公开的一行 Prompt；作者标注 GPT image 2.5。",
+    "source": "https://x.com/AllkeyArt/status/2100421366205845603",
+    "author": "@AllkeyArt",
+    "model": "GPT Image 2.5（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HSYyEnIXgAAZPUx.jpg?name=orig",
+        "alt": "东京旅行 iPhone 相册截图 · 效果图 1"
+      }
+    ],
+    "promptKind": "original",
+    "promptSource": "https://x.com/AllkeyArt/status/2100421366205845603",
+    "verifiedAt": "2026-09-17",
+    "language": "en"
+  },
+  {
+    "id": "sunburst-abstract-portrait-compare",
+    "title": "Sunburst 抽象背景人像对比",
+    "category": "photography",
+    "excerpt": "A fit adult woman with brown hair stands against an abstract background",
+    "brief": "生成一张成年女性的写实人像：棕色头发，站在深青色画布前，背景有红橙色泼洒。她穿白色衬衫，光线像夕阳或暖光，面部和衣服有柔和阴影，表情平静，背景保留可见笔触和飞溅，整体戏剧化、略带忧郁。",
+    "note": "作者明确比较 GPT Image 2.5 Sunburst 与 Nano Banana 2；本页只展示其 Sunburst 配图。",
+    "source": "https://x.com/dreamydigiarts/status/2100419487711260799",
+    "author": "@dreamydigiarts",
+    "model": "GPT Image 2.5 Sunburst（作者标注）",
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HSUVsltaIAAll0w.jpg?name=orig",
+        "alt": "Sunburst 抽象背景人像对比 · 效果图 1"
+      }
+    ],
+    "promptKind": "excerpt-and-adaptation",
+    "promptSource": "https://x.com/dreamydigiarts/status/2100419487711260799",
+    "verifiedAt": "2026-09-17",
+    "language": "en"
+  },
+  {
     "id": "sunburst-surreal-photography",
     "title": "Sunburst · 超现实写实摄影",
     "category": "photography",
