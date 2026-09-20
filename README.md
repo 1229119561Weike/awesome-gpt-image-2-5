@@ -2,13 +2,61 @@
 
 来自 X 的图像案例：**效果图 · 提示词 · 原帖**。
 
-[中文案例（6）](#chinese-cases) · [其他语言案例（12）](#international-cases)
+[中文案例（8）](#chinese-cases) · [其他语言案例（19）](#international-cases)
 
 <a id="chinese-cases"></a>
 
 ## 中文案例
 
-[竖版 2×2 失败照片模板](#vertical-2x2-failed-photos) · [角色与宠物 · 中文连续动作表](#chinese-pet-combat-sheet) · [复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+[银杏长阶 · 东方极简封面](#ginkgo-minimal-cover) · [手托地球 · 行星级汉服巨人](#planetary-hanfu-giant) · [竖版 2×2 失败照片模板](#vertical-2x2-failed-photos) · [角色与宠物 · 中文连续动作表](#chinese-pet-combat-sheet) · [复古丝网印刷人物海报](#chinese-screenprint-fashion) · [低机位奇幻角色人像](#chinese-fantasy-editorial) · [史诗巨物 · 暗黑奇观](#chinese-colossal-fantasy) · [九宫格 3D 表情贴纸](#mushroom-sticker-sheet)
+
+<a id="ginkgo-minimal-cover"></a>
+
+### 银杏长阶 · 东方极简封面
+
+[@liyue\_ai · X 原帖](https://x.com/liyue_ai/status/2099025209110274525) · [Prompt 原文](https://x.com/liyue_ai/status/2099025209110274525)
+
+[![银杏长阶 · 东方极简封面 · 原帖配图 1](https://pbs.twimg.com/media/HSE8ShebMAAlNzv.jpg?name=orig)](https://x.com/liyue_ai/status/2099025209110274525)
+
+**作者 Prompt 节选**
+
+```text
+主题方向：东方禅意极简封面海报
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型完成一张竖版封面：浅色长阶向晴空延伸，穿淡色古装的成年女子站在中下部，轻扶裙摆。银杏叶作为少量黄色点缀，顶部留出干净标题区。保持明亮通透的平面海报质感。
+```
+
+</details>
+
+中文作者给出了构图、色彩与标题留白要求。
+
+<a id="planetary-hanfu-giant"></a>
+
+### 手托地球 · 行星级汉服巨人
+
+[@DeepBlueX0 · X 原帖](https://x.com/DeepBlueX0/status/2099508984541769771) · [Prompt 原文](https://x.com/DeepBlueX0/status/2099508984541769771)
+
+<p>
+<a href="https://x.com/DeepBlueX0/status/2099508984541769771"><img src="https://pbs.twimg.com/media/HSL0SPwaQAAr7fX.jpg?name=orig" alt="手托地球 · 行星级汉服巨人 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/DeepBlueX0/status/2099508984541769771"><img src="https://pbs.twimg.com/media/HSL0SPqa0AAjWnl.jpg?name=orig" alt="手托地球 · 行星级汉服巨人 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/DeepBlueX0/status/2099508984541769771"><img src="https://pbs.twimg.com/media/HSL0SPkaoAAdQzo.jpg?name=orig" alt="手托地球 · 行星级汉服巨人 · 原帖配图 3" width="48%" /></a>
+</p>
+
+**作者 Prompt**
+
+```text
+真实东方汉服女性 × 行星级真人放大 × 手托🌍 × 😜👌 × 月球视角CCD相机抓拍 × 黑色宇宙背景
+```
+
+作者短指令与通用变量模板均在原帖；三张为作者发布的变体。
 
 <a id="vertical-2x2-failed-photos"></a>
 
@@ -194,7 +242,215 @@
 
 ## 其他语言案例
 
-[东京旅行 iPhone 相册截图](#tokyo-iphone-album-makima) · [Sunburst 抽象背景人像对比](#sunburst-abstract-portrait-compare) · [Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+[地标微缩模型 · 手作旅行卡](#handmade-travel-miniatures) · [城市地标 × 交通工具 · 丝网海报](#city-screenprint-json) · [三块橙色画板 · 牛仔帽时尚海报](#orange-panel-fashion) · [80 年代胶片肖像 · 保留人物身份](#eighties-film-portrait) · [列车乘务员 · 九宫格工作日记](#train-attendant-photo-diary) · [摩托车照片 → 水彩旅行手帐](#motorcycle-watercolor-diary) · [海岛修道院 · 旅行抓拍人像](#coastal-abbey-portrait) · [东京旅行 iPhone 相册截图](#tokyo-iphone-album-makima) · [Sunburst 抽象背景人像对比](#sunburst-abstract-portrait-compare) · [Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+
+<a id="handmade-travel-miniatures"></a>
+
+### 地标微缩模型 · 手作旅行卡
+
+[@Naiknelofar788 · X 原帖](https://x.com/Naiknelofar788/status/2097646788258021837) · [Prompt 原文](https://x.com/Naiknelofar788/status/2097646788258021837)
+
+<p>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK.jpg?name=orig" alt="地标微缩模型 · 手作旅行卡 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHoa0AARxkv.jpg?name=orig" alt="地标微缩模型 · 手作旅行卡 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHpasAAZ4Zd.jpg?name=orig" alt="地标微缩模型 · 手作旅行卡 · 原帖配图 3" width="48%" /></a>
+<a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoH1bUAA3U0Y.jpg?name=orig" alt="地标微缩模型 · 手作旅行卡 · 原帖配图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型制作手工质感的微缩旅行卡。把指定地标做成圆润的粘土与纸艺小模型，搭配少量当地植物、交通或水景。暖白纸面背景，柔光与轻投影，留足空白；小铭牌写地标名、城市和一条简短特色。
+```
+
+</details>
+
+用 \[ICONIC STRUCTURE\] 替换地标，原帖提供四组实例。
+
+<a id="city-screenprint-json"></a>
+
+### 城市地标 × 交通工具 · 丝网海报
+
+[@Maercihh · X 原帖](https://x.com/Maercihh/status/2099757585264251102) · [Prompt 原文](https://x.com/Maercihh/status/2099757585264251102)
+
+<p>
+<a href="https://x.com/Maercihh/status/2099757585264251102"><img src="https://pbs.twimg.com/media/HSPWNKrbkAAoYWC.jpg?name=orig" alt="城市地标 × 交通工具 · 丝网海报 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/Maercihh/status/2099757585264251102"><img src="https://pbs.twimg.com/media/HSPWNKhbUAAdOz6.jpg?name=orig" alt="城市地标 × 交通工具 · 丝网海报 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/Maercihh/status/2099757585264251102"><img src="https://pbs.twimg.com/media/HSPWXmrawAEEK_w.jpg?name=orig" alt="城市地标 × 交通工具 · 丝网海报 · 原帖配图 3" width="48%" /></a>
+<a href="https://x.com/Maercihh/status/2099757585264251102"><img src="https://pbs.twimg.com/media/HSPWXrWa0AAIXLU.jpg?name=orig" alt="城市地标 × 交通工具 · 丝网海报 · 原帖配图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Everything must be redesigned around the user's city_name.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型为指定城市画一张复古丝网旅行海报。选择四至七个代表性地标，简化成黑色剪影，围绕大号城市名排列。底部加入当地标志性交通工具。使用奶油色纸底和少量城市代表色，保留粗墨边缘与手工印刷纹理。
+```
+
+</details>
+
+原帖为 JSON 结构的完整 Prompt，需要风格参考图和城市名称。
+
+<a id="orange-panel-fashion"></a>
+
+### 三块橙色画板 · 牛仔帽时尚海报
+
+[@harboriis · X 原帖](https://x.com/harboriis/status/2099350017844867510) · [Prompt 原文](https://x.com/harboriis/status/2099350017844867510)
+
+<p>
+<a href="https://x.com/harboriis/status/2099350017844867510"><img src="https://pbs.twimg.com/media/HSJjtG4bYAAF5_2.jpg?name=orig" alt="三块橙色画板 · 牛仔帽时尚海报 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/harboriis/status/2099350017844867510"><img src="https://pbs.twimg.com/media/HSJjtiSbUAAV0He.jpg?name=orig" alt="三块橙色画板 · 牛仔帽时尚海报 · 原帖配图 2" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create a vertical 2:3 fashion editorial poster with a minimalist, modern aesthetic.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型制作白底竖版时尚海报，中央放三条细间隔的橙色长方形，中间一条略高。成年模特戴焦橙色宽檐帽，穿同色上衣，以三分之二侧身面向镜头。人物与色板边缘产生穿插，柔和棚光，干净留白，不加文字。
+```
+
+</details>
+
+原帖展示同一几何构图的两张效果图。
+
+<a id="eighties-film-portrait"></a>
+
+### 80 年代胶片肖像 · 保留人物身份
+
+[@Goodmanprotocol · X 原帖](https://x.com/Goodmanprotocol/status/2097954772586557873) · [Prompt 原文](https://x.com/Goodmanprotocol/status/2097954772586557873)
+
+<p>
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1utPuasAABAU8.jpg?name=orig" alt="80 年代胶片肖像 · 保留人物身份 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1uuHFa4AAcEvE.jpg?name=orig" alt="80 年代胶片肖像 · 保留人物身份 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1uuxpaMAAu8lw.jpg?name=orig" alt="80 年代胶片肖像 · 保留人物身份 · 原帖配图 3" width="48%" /></a>
+<a href="https://x.com/Goodmanprotocol/status/2097954772586557873"><img src="https://pbs.twimg.com/media/HR1uvdMbYAIpAQy.jpg?name=orig" alt="80 年代胶片肖像 · 保留人物身份 · 原帖配图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型将上传的人物参考图转为八十年代胶片肖像。保留可辨认的五官与肤色，改用年代感发型、服装和轮廓。加入机顶闪光、暖色氛围、轻微褪色和细胶片颗粒，避免将脸部改成另一个人。
+```
+
+</details>
+
+需要人物参考照片；四张均取自作者原帖。
+
+<a id="train-attendant-photo-diary"></a>
+
+### 列车乘务员 · 九宫格工作日记
+
+[@saniaspeaks\_ · X 原帖](https://x.com/saniaspeaks_/status/2100071548145070438) · [Prompt 原文](https://x.com/saniaspeaks_/status/2100071548145070438)
+
+[![列车乘务员 · 九宫格工作日记 · 原帖配图 1](https://pbs.twimg.com/media/HSTz77FbcAADIcp.jpg?name=orig)](https://x.com/saniaspeaks_/status/2100071548145070438)
+
+**作者 Prompt 节选**
+
+```text
+ULTRA-REALISTIC CASUAL SMARTPHONE PHOTO COLLAGE, vertical 3:4, consisting of 9 separate candid snapshots arranged in a clean 3×3 grid
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型制作同一位成年列车乘务员的九宫格手机照片日记。固定脸型、低发髻和深蓝制服，九格分别表现车门旁自拍、走过车厢、窗边休息、整理行李等日常瞬间。允许轻微运动模糊和不完美裁切，细白分隔，避免棚拍质感。
+```
+
+</details>
+
+作者说明经 Higgsfield 使用 GPT Image 2.5；原帖逐格列出九个镜头。
+
+<a id="motorcycle-watercolor-diary"></a>
+
+### 摩托车照片 → 水彩旅行手帐
+
+[@saniaspeaks\_ · X 原帖](https://x.com/saniaspeaks_/status/2099352717017641373) · [Prompt 原文](https://x.com/saniaspeaks_/status/2099352717017641373)
+
+<p>
+<a href="https://x.com/saniaspeaks_/status/2099352717017641373"><img src="https://pbs.twimg.com/media/HSJmExXaoAApQFZ.jpg?name=orig" alt="摩托车照片 → 水彩旅行手帐 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/saniaspeaks_/status/2099352717017641373"><img src="https://pbs.twimg.com/media/HSJmKc7bYAAeTRW.jpg?name=orig" alt="摩托车照片 → 水彩旅行手帐 · 原帖配图 2" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create a standalone 3:4 vertical poetic editorial illustration based on the original photograph.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型把参考照片转换成旅行手帐插画。保留人物动作、摩托车和头盔关系，使用通透水彩、细铅笔线、干刷痕迹与纸张肌理。主体位于画面中下方，四周大面积留白，限制为灰蓝、淡黄、砖红与米色。
+```
+
+</details>
+
+需要原始照片；原帖两张配图包含照片与插画的对照，不全部计作生成输出。
+
+<a id="coastal-abbey-portrait"></a>
+
+### 海岛修道院 · 旅行抓拍人像
+
+[@saniaspeaks\_ · X 原帖](https://x.com/saniaspeaks_/status/2097532595814940683) · [Prompt 原文](https://x.com/saniaspeaks_/status/2097532595814940683)
+
+<p>
+<a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuwVcasAAwAwf.jpg?name=orig" alt="海岛修道院 · 旅行抓拍人像 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuxTBacAA10A6.jpg?name=orig" alt="海岛修道院 · 旅行抓拍人像 · 原帖配图 2" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型生成海边旅行抓拍：成年女性站在潮汐沙滩与苔藓岩石旁，远处是岩岛上的古老石砌修道院。人物穿黑色长外套和浅色围巾，神态自然。柔和傍晚光、清淡蓝天，人物与建筑尺度合理，竖版构图。
+```
+
+</details>
+
+作者原帖明确标注 ChatGPT 中的 GPT image 2.5，附两张配图。
 
 <a id="tokyo-iphone-album-makima"></a>
 
