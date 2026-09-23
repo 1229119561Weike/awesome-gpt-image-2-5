@@ -2,7 +2,7 @@
 
 来自 X 的图像案例：**效果图 · 提示词 · 原帖**。
 
-[中文案例（8）](#chinese-cases) · [其他语言案例（19）](#international-cases)
+[中文案例（8）](#chinese-cases) · [其他语言案例（23）](#international-cases)
 
 <a id="chinese-cases"></a>
 
@@ -242,7 +242,137 @@
 
 ## 其他语言案例
 
-[地标微缩模型 · 手作旅行卡](#handmade-travel-miniatures) · [城市地标 × 交通工具 · 丝网海报](#city-screenprint-json) · [三块橙色画板 · 牛仔帽时尚海报](#orange-panel-fashion) · [80 年代胶片肖像 · 保留人物身份](#eighties-film-portrait) · [列车乘务员 · 九宫格工作日记](#train-attendant-photo-diary) · [摩托车照片 → 水彩旅行手帐](#motorcycle-watercolor-diary) · [海岛修道院 · 旅行抓拍人像](#coastal-abbey-portrait) · [东京旅行 iPhone 相册截图](#tokyo-iphone-album-makima) · [Sunburst 抽象背景人像对比](#sunburst-abstract-portrait-compare) · [Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+[东京夜街 · 杂志拼贴封面](#tokyo-streetwear-magazine) · [葡萄牙海滩 · 八十年代胶片写真](#portugal-eighties-beach) · [城市名字里的风景 · 扁平旅行海报](#location-lettering-poster) · [钴蓝棚拍 · 双参考人物编辑](#cobalt-studio-reference-portrait) · [地标微缩模型 · 手作旅行卡](#handmade-travel-miniatures) · [城市地标 × 交通工具 · 丝网海报](#city-screenprint-json) · [三块橙色画板 · 牛仔帽时尚海报](#orange-panel-fashion) · [80 年代胶片肖像 · 保留人物身份](#eighties-film-portrait) · [列车乘务员 · 九宫格工作日记](#train-attendant-photo-diary) · [摩托车照片 → 水彩旅行手帐](#motorcycle-watercolor-diary) · [海岛修道院 · 旅行抓拍人像](#coastal-abbey-portrait) · [东京旅行 iPhone 相册截图](#tokyo-iphone-album-makima) · [Sunburst 抽象背景人像对比](#sunburst-abstract-portrait-compare) · [Sunburst · 超现实写实摄影](#sunburst-surreal-photography) · [参考照片配色 · UGC 人像](#reference-style-ugc) · [昭和风旅行海报](#showa-travel-posters) · [地铁站电影感人像](#subway-cinematic-portrait) · [像素角色 · 战斗动作表](#pixel-combat-sprites) · [像素角色 · 待机动画](#pixel-idle-sprites) · [森林摄影 · 细节压力测试](#forest-detail-test) · [秋日穿搭 · 服装细节锁定](#autumn-wardrobe) · [30 种配料的注释芭菲](#annotated-parfait) · [黑白机械面具肖像](#cybernetic-portrait)
+
+<a id="tokyo-streetwear-magazine"></a>
+
+### 东京夜街 · 杂志拼贴封面
+
+[@harboriis · X 原帖](https://x.com/harboriis/status/2100099718605135962) · [Prompt 原文](https://x.com/harboriis/status/2100099718605135962)
+
+<p>
+<a href="https://x.com/harboriis/status/2100099718605135962"><img src="https://pbs.twimg.com/media/HSUNiF-bgAA3q0L.jpg?name=orig" alt="东京夜街 · 杂志拼贴封面 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/harboriis/status/2100099718605135962"><img src="https://pbs.twimg.com/media/HSUNim0aAAAuNcj.jpg?name=orig" alt="东京夜街 · 杂志拼贴封面 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/harboriis/status/2100099718605135962"><img src="https://pbs.twimg.com/media/HSUNjHna4AAF74l.jpg?name=orig" alt="东京夜街 · 杂志拼贴封面 · 原帖配图 3" width="48%" /></a>
+<a href="https://x.com/harboriis/status/2100099718605135962"><img src="https://pbs.twimg.com/media/HSUNjzMbkAA9qE2.jpg?name=orig" alt="东京夜街 · 杂志拼贴封面 · 原帖配图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create a vertical 4:5 ultra-realistic editorial travel fashion poster inspired by a vintage Japanese street magazine cover.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型制作竖版东京街头时装杂志封面。中心放穿黑色机能外套的成年模特，周围拼贴雨夜街道、东京塔和列车照片。旧纸底、黑红图形、顶部大字 TOKYO，搭配少量坐标与标签，保留纸张与印刷质感。
+```
+
+</details>
+
+原帖提供四张封面变体与完整英文 Prompt。
+
+<a id="portugal-eighties-beach"></a>
+
+### 葡萄牙海滩 · 八十年代胶片写真
+
+[@john\_my07 · X 原帖](https://x.com/john_my07/status/2098044563667714276) · [Prompt 原文](https://x.com/john_my07/status/2098044563667714276)
+
+<p>
+<a href="https://x.com/john_my07/status/2098044563667714276"><img src="https://pbs.twimg.com/media/HR3AZERbEAE5ggq.jpg?name=orig" alt="葡萄牙海滩 · 八十年代胶片写真 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/john_my07/status/2098044563667714276"><img src="https://pbs.twimg.com/media/HR3AZnFbYAAn2OR.jpg?name=orig" alt="葡萄牙海滩 · 八十年代胶片写真 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/john_my07/status/2098044563667714276"><img src="https://pbs.twimg.com/media/HR3AaF7aUAAG05B.jpg?name=orig" alt="葡萄牙海滩 · 八十年代胶片写真 · 原帖配图 3" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create an ultra-realistic vintage 1980s-style photograph of a clearly adult Portuguese woman in her mid-20s enjoying a sunny beach on the Portuguese coast.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型生成八十年代葡萄牙海边度假照片。成年女性穿复古高腰泳装与宽松条纹衬衫，背景有金色沙滩、海浪和远处岩崖。采用自然日光、暖色胶片、细颗粒与轻微光晕；服饰、配件和环境均符合年代，竖版抓拍构图。
+```
+
+</details>
+
+原帖明确人物成年并提供三张配图；地点为葡萄牙，Prompt 语言为英语。
+
+<a id="location-lettering-poster"></a>
+
+### 城市名字里的风景 · 扁平旅行海报
+
+[@Goodmanprotocol · X 原帖](https://x.com/Goodmanprotocol/status/2098372539332587684) · [Prompt 原文](https://x.com/Goodmanprotocol/status/2098372539332587684)
+
+<p>
+<a href="https://x.com/Goodmanprotocol/status/2098372539332587684"><img src="https://pbs.twimg.com/media/HR7qqaTbgAAnIJ6.jpg?name=orig" alt="城市名字里的风景 · 扁平旅行海报 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/Goodmanprotocol/status/2098372539332587684"><img src="https://pbs.twimg.com/media/HR7qrOBbQAES-p_.jpg?name=orig" alt="城市名字里的风景 · 扁平旅行海报 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/Goodmanprotocol/status/2098372539332587684"><img src="https://pbs.twimg.com/media/HR7qsCtasAAxr2a.jpg?name=orig" alt="城市名字里的风景 · 扁平旅行海报 · 原帖配图 3" width="48%" /></a>
+<a href="https://x.com/Goodmanprotocol/status/2098372539332587684"><img src="https://pbs.twimg.com/media/HR7qsqqbwAAZr6O.jpg?name=orig" alt="城市名字里的风景 · 扁平旅行海报 · 原帖配图 4" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create an ultra-high-resolution premium travel poster for [LOCATION] in a strict 4:5 vertical format.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型为 [LOCATION] 制作竖版旅行海报。把英文城市名作为中心视觉，将当地地标、交通与街区缩小后嵌入字母内部或周围。统一使用三至五种地方代表色、几何形和轻微丝网纹理。文字完整可读，不加虚构口号。
+```
+
+</details>
+
+与已有昭和海报不同，此模板以城市文字和字内景观为核心；无需参考图。
+
+<a id="cobalt-studio-reference-portrait"></a>
+
+### 钴蓝棚拍 · 双参考人物编辑
+
+[@john\_my07 · X 原帖](https://x.com/john_my07/status/2099162876842049901) · [Prompt 原文](https://x.com/john_my07/status/2099162876842049901)
+
+<p>
+<a href="https://x.com/john_my07/status/2099162876842049901"><img src="https://pbs.twimg.com/media/HSG5fi0aYAAVNgi.jpg?name=orig" alt="钴蓝棚拍 · 双参考人物编辑 · 原帖配图 1" width="48%" /></a>
+<a href="https://x.com/john_my07/status/2099162876842049901"><img src="https://pbs.twimg.com/media/HSG5gBybgAALwc5.jpg?name=orig" alt="钴蓝棚拍 · 双参考人物编辑 · 原帖配图 2" width="48%" /></a>
+</p>
+
+<p>
+<a href="https://x.com/john_my07/status/2099162876842049901"><img src="https://pbs.twimg.com/media/HSG5gd6a4AAHo8_.jpg?name=orig" alt="钴蓝棚拍 · 双参考人物编辑 · 原帖配图 3" width="48%" /></a>
+</p>
+
+**作者 Prompt 节选**
+
+```text
+Create a high-end studio fashion portrait inspired by the uploaded blue-background reference photograph.
+```
+
+<details>
+<summary>中文尝试版 Prompt（项目整理，未复现）</summary>
+
+```text
+用出图模型结合两张参考图完成人像编辑。第一张决定钴蓝棚景、构图、光线、裁切与仰视神态；第二张决定人物身份。保持可辨认的五官和发型，使用宽松针织服饰与克制配饰，保留自然皮肤和布料细节。
+```
+
+</details>
+
+需要棚拍构图参考和人物参考。三张是作者原帖配图，原始输入与输出关系应以原帖为准。
 
 <a id="handmade-travel-miniatures"></a>
 
